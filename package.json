@@ -1,0 +1,20 @@
+{
+  "name": "phase2",
+  "version": "1.0.0",
+  "description": "github page for this project\r https://mohaymen-academy.github.io/FE_Team06_Summer1402/\r # Commands to run this Project \r ```bash\r git clone\r # in the root directory Install project dependencies\r npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-all":"cd ./vitrin/ && npm i && cd ./pageBuilder && npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohaymen-Academy/FE_Team06_Summer1402.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohaymen-Academy/FE_Team06_Summer1402/issues"
+  },
+  "homepage": "https://github.com/Mohaymen-Academy/FE_Team06_Summer1402#readme"
+}
